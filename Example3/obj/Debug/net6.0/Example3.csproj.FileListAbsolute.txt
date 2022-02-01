@@ -1,0 +1,16 @@
+C:\Users\Intel\Desktop\GB\Examples\Example3\obj\Debug\net6.0\Example3.GlobalUsings.g.cs
+C:\Users\Intel\Desktop\GB\Examples\Example3\obj\Debug\net6.0\Example3.csproj.AssemblyReference.cache
+C:\Users\Intel\Desktop\GB\Examples\Example3\obj\Debug\net6.0\Example3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intel\Desktop\GB\Examples\Example3\obj\Debug\net6.0\Example3.AssemblyInfoInputs.cache
+C:\Users\Intel\Desktop\GB\Examples\Example3\obj\Debug\net6.0\Example3.AssemblyInfo.cs
+C:\Users\Intel\Desktop\GB\Examples\Example3\obj\Debug\net6.0\Example3.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Desktop\GB\Examples\Example3\bin\Debug\net6.0\Example3.exe
+C:\Users\Intel\Desktop\GB\Examples\Example3\bin\Debug\net6.0\Example3.deps.json
+C:\Users\Intel\Desktop\GB\Examples\Example3\bin\Debug\net6.0\Example3.runtimeconfig.json
+C:\Users\Intel\Desktop\GB\Examples\Example3\bin\Debug\net6.0\Example3.dll
+C:\Users\Intel\Desktop\GB\Examples\Example3\bin\Debug\net6.0\ref\Example3.dll
+C:\Users\Intel\Desktop\GB\Examples\Example3\bin\Debug\net6.0\Example3.pdb
+C:\Users\Intel\Desktop\GB\Examples\Example3\obj\Debug\net6.0\Example3.dll
+C:\Users\Intel\Desktop\GB\Examples\Example3\obj\Debug\net6.0\ref\Example3.dll
+C:\Users\Intel\Desktop\GB\Examples\Example3\obj\Debug\net6.0\Example3.pdb
+C:\Users\Intel\Desktop\GB\Examples\Example3\obj\Debug\net6.0\Example3.genruntimeconfig.cache
